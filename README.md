@@ -3,4 +3,4 @@ Usha reddy pati webapps assignment
 
 [hosted at: ](https://s2wb45pati.herokuapp.com/)
 
-my class olavehicle attributes vehiclenumber (number), numberofpassengers(number), and amount(string)
+my class is olavehicle attributes vehiclenumber (string), numberofpassengers(number), and amount(string)
