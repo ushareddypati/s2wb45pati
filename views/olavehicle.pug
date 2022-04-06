@@ -26,9 +26,9 @@ block content
           
         ]
       each i,index in olavehicle
-        div(class="col-sm-1" onclick=`ride(${index})`) #{i.vehiclenumber}
-        div(class="col-sm-1" onclick=`ride(${index})`) #{i.numberofpassengers}
-        div(class="col-sm-1" onclick=`ride(${index})`) #{i.amount}
+        div(class="col-sm-2" onclick=`ride(${index})`) #{i.vehiclenumber}
+        div(class="col-sm-2" onclick=`ride(${index})`) #{i.numberofpassengers}
+        div(class="col-sm-2" onclick=`ride(${index})`) #{i.amount}
   script.                
       function ride(rides)
       {
